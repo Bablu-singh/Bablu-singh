@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bablu Singh
 - 👀 I’m interested in ui designing and development
-- 🌱 I’m currently learning figma & adobe photoshop skills
+- 🌱 I’m currently learning react & adobe photoshop skills
 - 📫 You can contact me using my email.
 
 <!---
